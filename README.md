@@ -1,6 +1,5 @@
 mermaid```
-
-    erDiagram
+erDiagram
 
     students {
         uuid id PK
