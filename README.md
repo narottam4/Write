@@ -1,6 +1,6 @@
 mermaid```
 
-    erDiagram
+erDiagram
 
 
 
@@ -348,4 +348,4 @@ mermaid```
 
     users ||--|{ profiles : has
 
-``` 
+```
